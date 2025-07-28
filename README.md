@@ -55,6 +55,5 @@ This project uses an **Arduino Uno** to detect **smoke**, **alcohol**, **flame**
 - Uses delays between sensor readings for stability.
 
 ## 📟 Sample Output (Serial Monitor)
-![WhatsApp Image 2025-07-28 at 12 23 12 PM](https://github.com/user-attachments/assets/d705d9a9-0b0b-4daf-8dc9-749cb7db8a64)
-
+![WhatsApp Image 2025-07-28 at 12 23 12 PM](https://github.com/user-attachments/assets/564a6fa7-7678-487f-ab19-7c9b76b5dc8a)
 
