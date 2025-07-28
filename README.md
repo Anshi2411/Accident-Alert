@@ -57,3 +57,4 @@ This project uses an **Arduino Uno** to detect **smoke**, **alcohol**, **flame**
 ## 📟 Sample Output (Serial Monitor)
 ![WhatsApp Image 2025-07-28 at 12 23 12 PM](https://github.com/user-attachments/assets/564a6fa7-7678-487f-ab19-7c9b76b5dc8a)
 
+![WhatsApp Image 2025-07-28 at 12 35 38 PM (2)](https://github.com/user-attachments/assets/3ca784a3-9143-4673-8da0-9653d32cdf12)
